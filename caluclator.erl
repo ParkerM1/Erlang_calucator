@@ -1,4 +1,4 @@
-% Discribles the module 
+% Describles the module 
 -module(calculator).
 % Export used for the program
 -export([start/0, loop/0]).
